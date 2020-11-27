@@ -1,6 +1,6 @@
 #Personal Blocklist for Reddit
 #Link to ongoing updates
-#https://raw.githubusercontent.com/Th3MadMan/My-Pihole-List/main/Reddit%20NSFW%20List.txt
+#https://raw.githubusercontent.com/Th3MadMan/My-Pihole-List/main/RedditNSFWList.txt
 0.0.0.0	reddit.com/r/60fpsporn
 0.0.0.0	reddit.com/r/8muses
 0.0.0.0	reddit.com/r/aa_cups
